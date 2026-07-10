@@ -1,6 +1,6 @@
 module github.com/prometheus/alertmanager
 
-go 1.18
+go 1.25.0
 
 require (
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137
@@ -9,7 +9,7 @@ require (
 	github.com/cenkalti/backoff/v4 v4.1.3
 	github.com/cespare/xxhash/v2 v2.1.2
 	github.com/go-kit/log v0.2.1
-	github.com/go-openapi/errors v0.20.3
+	github.com/go-openapi/errors v0.22.8
 	github.com/go-openapi/loads v0.21.2
 	github.com/go-openapi/runtime v0.24.1
 	github.com/go-openapi/spec v0.20.7
